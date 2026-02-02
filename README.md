@@ -13,6 +13,7 @@ Tal y como se especifica en el enunciado oficial de la práctica, no se buscan r
 
 He mantenido la entrega 1 en caso de que se quiera comprobar el primer intento de esta práctica, pero realmente el archivo importante es la entrega 2. 
 Además, pese a que es requisito entregar el notebook con las celdas ejecutadas, no he ejecutado la celda con el iprofiler ya que este hacía imposible subir el archivo a github (ocupaba demasiado espacio)
+Por último, en este segundo intento, he llevado a cabo el análisis exploratorio de los datos, observándolos y eliminando las columnas que no tenían relevancia, pero sólo haciendo la división X_TRAIN, X_TEST, Y_TRAIN, Y_TEST ANTES de iniciar cambios reales en el dataset como la inputación de los valores nulos, para así evitar el data leakage 
 ---
 
 ## Estructura del repositorio
