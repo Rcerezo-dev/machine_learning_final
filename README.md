@@ -11,7 +11,8 @@ El problema planteado es de regresión, y consiste en predecir el precio de un a
 
 Tal y como se especifica en el enunciado oficial de la práctica, no se buscan resultados espectaculares, sino un proceso coherente, bien razonado y sin errores conceptuales graves, priorizando la correcta aplicación de las técnicas vistas en clase.
 
-He mantenido la entrega 1, 
+He mantenido la entrega 1 en caso de que se quiera comprobar el primer intento de esta práctica, pero realmente el archivo importante es la entrega 2. 
+Además, pese a que es requisito entregar el notebook con las celdas ejecutadas, no he ejecutado la celda con el iprofiler ya que este hacía imposible subir el archivo a github (ocupaba demasiado espacio)
 ---
 
 ## Estructura del repositorio
